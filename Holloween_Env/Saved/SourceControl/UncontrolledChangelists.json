@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"K:/MyUnrealShit/Holloween_Env/Content/Maps/HolloweenShowcase.umap",
+				"K:/MyUnrealShit/Holloween_Env/Content/Meshes/5_10_UE4_Human_Scale.uasset",
+				"K:/MyUnrealShit/Holloween_Env/Content/Meshes/SpookyTree2_low.uasset",
+				"K:/MyUnrealShit/Holloween_Env/Content/Materials/M_Props.uasset",
+				"K:/MyUnrealShit/Holloween_Env/Content/Textures/SpookyTree2_low_SpookyTree1_Normal.uasset",
+				"K:/MyUnrealShit/Holloween_Env/Content/Textures/SpookyTree2_low_SpookyTree1_Roughness.uasset",
+				"K:/MyUnrealShit/Holloween_Env/Content/Textures/SpookyTree2_low_SpookyTree1_BaseColor.uasset",
+				"K:/MyUnrealShit/Holloween_Env/Content/Textures/SpookyTree2_low_SpookyTree1_Emissive.uasset",
+				"K:/MyUnrealShit/Holloween_Env/Content/Textures/SpookyTree2_low_SpookyTree1_Height.uasset",
+				"K:/MyUnrealShit/Holloween_Env/Content/Textures/SpookyTree2_low_SpookyTree1_Metallic.uasset"
+			]
+		}
+	]
+}
